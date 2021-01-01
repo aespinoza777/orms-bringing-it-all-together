@@ -1,0 +1,5 @@
+CREATE TABLE dogs (
+    id PRIMARY INTEGER KEY,
+    name TEXT,
+    breed TEXT
+);
